@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "98444643460",
+    "firebase_url": "https://api-6553261483336053814-971950.firebaseio.com",
+    "project_id": "api-6553261483336053814-971950",
+    "storage_bucket": "api-6553261483336053814-971950.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98444643460:android:9fcb131eade61b50",
+        "android_client_info": {
+          "package_name": "brilliance.ldcprev_fragment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98444643460-dduqee1q9fir7badhio8kfqdjtqs7f1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUO36vdchD2EgCggfwvh5oI5NnaK0Z1Gg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

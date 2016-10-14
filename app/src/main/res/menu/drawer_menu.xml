@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item android:title="Home"
+    android:id="@+id/home_id"
+    android:icon="@drawable/home"/>
+
+
+    <item android:title="@string/prev">
+
+        <menu>
+
+            <item android:title="പരീക്ഷ :1"
+                android:id="@+id/nav_paper_1"
+                android:icon="@drawable/more_up"
+              />
+
+            <item android:title="പരീക്ഷ :2"
+                android:id="@+id/nav_paper_2"
+                android:icon="@drawable/more_up"
+               />
+            <item android:title="പരീക്ഷ :3"
+                android:id="@+id/nav_paper_3"
+                android:icon="@drawable/more_up"
+                />
+        </menu>
+    </item>
+
+    <item android:title="@string/model">
+        <menu>
+
+            <item android:title="മോഡൽ :1"
+                android:id="@+id/nav_model_1"
+                android:icon="@drawable/more_up"
+                />
+
+            <item android:title="മോഡൽ :2"
+                android:id="@+id/nav_model_2"
+                android:icon="@drawable/more_up"
+                />
+            <item android:title="മോഡൽ :3"
+                android:id="@+id/nav_model_3"
+                android:icon="@drawable/more_up"
+                />
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LD Clerk Success</string>
+    <string name="one">സര്‍ക്കാര്‍ ഉദ്യോഗം \n LD ക്ലാര്‍ക്കിലൂടെ നേടാം</string>
+    <string name="two">The Great Secret of Success</string>
+
+
+    <string name="prev">മുൻവർഷ ചോദ്യ പരീക്ഷകൾ</string>
+    <string name="model">മോഡൽ പരീക്ഷകൾ</string>
+    <string name="paper">പരീക്ഷ </string>
+
+    <string name="prevpaper">മുൻവർഷ ചോദ്യ പരീക്ഷ </string>
+    <string name="modelpaper">മോഡൽ പരീക്ഷ </string>
+</resources>
